@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Evan Gunderson"
   pronouns         : "he/him"
-  bio              : "Quantitative Sociologist & Data Scientist"
+  bio              : "Quantitative Social & Data Scientist"
   location         : "New York City"
   employer         : "City University of New York"
   uri              : "https://www.linkedin.com/in/evan-gunderson/"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
